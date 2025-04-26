@@ -1,4 +1,4 @@
-*NOTE: this plugin has been abandoned by the original creator and adopted here by a new maintainer*
+*NOTE: this plugin has been abandoned by the original creator and adopted here by Daedalas1981 for compatibility with Octoprint-SmartThings-Bridge*
 
 # OctoPrint-Webhooks
 
